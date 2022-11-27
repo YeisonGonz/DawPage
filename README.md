@@ -27,4 +27,14 @@ Crea una página HTML5 sobre tu película favorita que cumpla los siguientes req
 
 7. Entrega un link a tu web. Recuerda que es requisito imprescindible que la actividad esté entregada antes del lunes 28 a las 21h. Se revisará con el comando document.lastModified. No hagas modificaciones posteriores a esa fecha. Si la fecha es posterior al plazo establecido o no se sube a GitHubPages/GitLabPages, la calificación será de 0. 
 
+---
 
+## Estructura
+
++ index.html  | Página principal
++ img   | Todas las fotos
++ html
++ + characters.html  |  Apartado destinado a los personajes
++ + director.html  |  Apartado descriptivo del director de la película
++ + enemies.html  |  Apartado extra sobre los enemigos
++ + gallerie.html  |  Apartado fotográfico
